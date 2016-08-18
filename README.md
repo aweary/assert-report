@@ -1,6 +1,6 @@
 # assert-report
 
-> A barebones test reporter in <4kb with zero dependencies
+> A barebones test reporter in ~1.5kb with zero dependencies
 
 ![alt tag](example.png)
 
