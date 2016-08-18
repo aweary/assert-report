@@ -1,0 +1,19 @@
+{
+  "name": "assert-report",
+  "version": "1.0.0",
+  "description": "A barebones test reporter with zero dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "unit",
+    "test",
+    "assert",
+    "reporter"
+  ],
+  "author": "Brandon Dail",
+  "license": "MIT"
+}
